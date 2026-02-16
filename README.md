@@ -5,7 +5,11 @@ Dashboard desenvolvido no Tableau para analisar a evolução das **peças única
 O projeto explora como o número de peças únicas evoluiu historicamente e como isso impacta os diferentes temas e conjuntos da marca.
 
 ---
+
 ![Dashboard](Dashboard-LEGO.jpg)
+
+---
+
 ## Objetivo do Projeto:
 
 Criar um painel analítico para:
@@ -76,3 +80,9 @@ Alguns conjuntos apresentam proporção significativamente maior de peças exclu
 - Temas específicos apresentam maior inovação estrutural.
 
 ---
+
+## Aprendizado:
+
+Este projeto foi desenvolvido acompanhando a aula disponível neste vídeo: https://www.youtube.com/watch?v=9brLkWC9BdU.
+Ao longo do projeto, aprofundei meus conhecimentos em conceitos e técnicas importantes 
+Recomendo fortemente para quem deseja evoluir seus estudos em Data Analytics e Business Intelligence.
